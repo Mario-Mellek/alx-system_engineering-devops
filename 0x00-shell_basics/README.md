@@ -1,2 +1,29 @@
-## Print the absolute path of the current working directory
-### pwd
+## Basic Linux commands
+
+- cd
+
+- ls
+
+- pwd
+
+- less
+
+- file
+
+- ln
+
+- cp
+
+- mv
+
+- rm
+
+- mkdir
+
+- type
+
+- which
+
+- help
+
+- man
