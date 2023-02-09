@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -pam | sort | sed G
+ls -pam | sort -d
