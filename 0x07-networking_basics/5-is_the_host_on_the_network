@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+# A script that accepts a positional argument with the IP to ping 5 times
+
+if [ $# -eq 0 ]; then
+    echo "Usage: $(basename "$0") {IP_ADDRESS}"
+else
+    ping -c 5 "$1"
+fi
+
